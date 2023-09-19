@@ -1,0 +1,12 @@
+.demo {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 30px;
+}
+
+.c {
+    text-align: center;
+    font-size: 2rem;
+    margin: 50px;
+}
